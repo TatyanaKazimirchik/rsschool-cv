@@ -1,23 +1,25 @@
 # Tatyana Kazimirchik
 
-## * Contact Information:
+* Contact Information:
 
     + Location: Minsk, Belarus
     + Phone: +375295217722
     + E-mail: kazimirchik.tatyana@gmail.com
     + GitHub: https://github.com/TatyanaKazimirchik/
   ____________________________________________________________________________________
-  
-## * About Me:
 
-+ Now I am a middle manager. My work requires a quick response to new technological and organizational changes. Increasing my own productivity and efficiency, as well as new knowledge in the field of information technology will allow me to make the right management decisions. My goal is to expand existing knowledge and gain new experience for career growth or even change the field of activity, improve my own qualifications and competitiveness for potential employers
+* About Me:
 
+    + Now I am a middle manager. My work requires a quick response to new technological and organizational changes. Increasing my own productivity and efficiency, as well as new knowledge in the field of information technology will allow me to make the right management decisions. My goal is to expand existing knowledge and gain new experience for career growth or even change the field of activity, improve my own qualifications and competitiveness for potential employers
+ ____________________________________________________________________________________
+ 
 * Skills:
 
-+ MS Excel, MS Word, MS PowerPoint
-+ basic knowledge of infographics (Piktochart)
-+ GitHub
-+ 1C:8
+    + MS Excel, MS Word, MS PowerPoint
+    + basic knowledge of infographics (Piktochart)
+    + GitHub
+    + 1C:8
+ ____________________________________________________________________________________
 
 * Code Example:
 
@@ -28,16 +30,18 @@ const num1 = 5;
 const num2 = 10;
 const sum = addNumbers(num1, num2);
 console.log(sum); 
+ ____________________________________________________________________________________
 
 * Work Experience:
- + economist, middle manager in the technical department
+     + economist, middle manager in the technical department
 
 * Education:
-+ faculty of energy construction Belarusian State Technical University
+    + faculty of energy construction Belarusian State Technical University
 
 * Courses:
-+ Agile fun-da-mentals (2020) (completed)
-+ RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+    + Agile fun-da-mentals (2020) (completed)
+    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+ ____________________________________________________________________________________
 
   
 
