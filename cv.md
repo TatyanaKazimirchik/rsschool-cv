@@ -6,12 +6,12 @@
     + Phone: +375295217722
     + E-mail: kazimirchik.tatyana@gmail.com
     + GitHub: https://github.com/TatyanaKazimirchik/
- * ____________________________________________________________________________________
+  ____________________________________________________________________________________
 
 * About Me:
 
     + Now I am a middle manager. My work requires a quick response to new technological and organizational changes. Increasing my own productivity and efficiency, as well as new knowledge in the field of information technology will allow me to make the right management decisions. My goal is to expand existing knowledge and gain new experience for career growth or even change the field of activity, improve my own qualifications and competitiveness for potential employers
- * ____________________________________________________________________________________
+  ____________________________________________________________________________________
  
 * Skills:
 
@@ -19,7 +19,7 @@
     + basic knowledge of infographics (Piktochart)
     + GitHub
     + 1C:8
-* ____________________________________________________________________________________
+ ____________________________________________________________________________________
 
 * Code Example:
 
@@ -32,14 +32,14 @@ const num2 = 10;
 const sum = addNumbers(num1, num2);
 console.log(sum);
 ```
-* ____________________________________________________________________________________
+ ____________________________________________________________________________________
 
 * Work Experience:
      + economist, middle manager in the technical department
-
+ ____________________________________________________________________________________
 * Education:
     + faculty of energy construction Belarusian State Technical University
-
+ ____________________________________________________________________________________
 * Courses:
     + Agile fun-da-mentals (2020) (completed)
     + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
@@ -48,6 +48,7 @@ console.log(sum);
 
     + Russian / Belarusian- Native
     + English – Pre-Intermediate/Intermediate (according to the online test at [efset.org](https://www.efset.org/)
+ ____________________________________________________________________________________
 * Project:
     + [Link On My CV](https://tatyanakazimirchik.github.io/rsschool-cv/cv)
 
