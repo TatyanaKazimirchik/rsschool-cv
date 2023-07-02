@@ -20,7 +20,8 @@
     + MS Excel, MS Word, MS PowerPoint
     + basic knowledge of infographics (Piktochart)
     + GitHub
-    + 1C:8  
+    + 1C:8
+  
 --- 
 
 * Code Example:
@@ -37,22 +38,26 @@ console.log(sum);
 --- 
 
 * Work Experience:
-     + economist, middle manager in the technical department  
+     + economist, middle manager in the technical department
+  
 --- 
 
 * Education:
-    + faculty of energy construction Belarusian State Technical University  
+    + faculty of energy construction Belarusian State Technical University
+  
 --- 
 
 * Courses:
     + Agile fun-da-mentals (2020) (completed)
-    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)  
+    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+  
 --- 
 
 * Languages:
 
     + Russian / Belarusian- Native
-    + English – Pre-Intermediate/Intermediate (according to the online test at [efset.org](https://www.efset.org/)  
+    + English – Pre-Intermediate/Intermediate (according to the online test at [efset.org](https://www.efset.org/)
+  
 --- 
 
 * Project:
