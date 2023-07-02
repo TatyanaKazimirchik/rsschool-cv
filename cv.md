@@ -44,6 +44,10 @@ console.log(sum);
     + Agile fun-da-mentals (2020) (completed)
     + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
  ____________________________________________________________________________________
+* Languages:
+
+    + Russian / Belarusian- Native
+    + English – Pre-Intermediate/Intermediate (according to the online test at www.efset.org [Cсылка на efset.org](https://www.efset.org/)
 
   
 
