@@ -1,6 +1,6 @@
 # Tatyana Kazimirchik
 
-#* Contact Information:
+## * Contact Information:
 
     + Location: Minsk, Belarus
     + Phone: +375295217722
@@ -8,7 +8,7 @@
     + GitHub: https://github.com/TatyanaKazimirchik/
   ____________________________________________________________________________________
   
-#* About Me:
+## * About Me:
 
 + Now I am a middle manager. My work requires a quick response to new technological and organizational changes. Increasing my own productivity and efficiency, as well as new knowledge in the field of information technology will allow me to make the right management decisions. My goal is to expand existing knowledge and gain new experience for career growth or even change the field of activity, improve my own qualifications and competitiveness for potential employers
 
