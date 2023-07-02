@@ -48,6 +48,6 @@ console.log(sum);
 
     + Russian / Belarusian- Native
     + English – Pre-Intermediate/Intermediate (according to the online test at [efset.org](https://www.efset.org/)
-
-  
+* Project:
+    + [Link On My CV](https://tatyanakazimirchik.github.io/rsschool-cv/cv)
 
