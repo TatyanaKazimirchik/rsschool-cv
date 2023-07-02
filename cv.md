@@ -47,7 +47,7 @@ console.log(sum);
 * Languages:
 
     + Russian / Belarusian- Native
-    + English – Pre-Intermediate/Intermediate (according to the online test at www.efset.org [Cсылка на efset.org](https://www.efset.org/)
+    + English – Pre-Intermediate/Intermediate (according to the online test at [efset.org](https://www.efset.org/)
 
   
 
